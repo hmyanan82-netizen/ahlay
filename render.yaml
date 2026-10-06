@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: ahlay-app
-    runtime: php
-    region: frankfurt
-    plan: free
-    buildCommand: ""
-    staticPublishPath: ./
